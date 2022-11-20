@@ -1,0 +1,4 @@
+1) go to project directory
+2) make
+3) ./prime_numbers
+4) Whoaaaaa magic!!1!
